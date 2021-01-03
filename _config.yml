@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: choi mm
 
 # Your name to show in the footer
-author: Some Person
+author: colormm
 
 # --- List of links in the navigation bar --- #
 
@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "colormm@example.com"
-  facebook: none
+#  facebook: none
   github: colormm78
-  twitter: none
-  patreon: none
-  youtube: none
+#  twitter: none
+#  patreon: none
+#  youtube: none
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
